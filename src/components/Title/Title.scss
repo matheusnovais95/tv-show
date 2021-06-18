@@ -1,0 +1,15 @@
+.font--size {
+  margin: 0;
+  font-size: 60px;
+  color: var(--white);
+  padding-left: 60px;
+}
+
+@media screen and (max-width: 425px) {
+  .font--size {
+    margin: 0;
+    font-size: 35px;
+    color: var(--white);
+    padding: 0;
+  }
+}

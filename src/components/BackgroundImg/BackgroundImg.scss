@@ -1,0 +1,40 @@
+.container__img {
+  width: 100%;
+  height: 600px;
+  position: absolute;
+  z-index: 1;
+  top: 0;
+}
+
+.img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.background-alpha {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.99) 0%,
+    rgba(0, 0, 0, 0.9) 38.54%,
+    rgba(0, 0, 0, 0.87) 67.71%,
+    rgba(0, 0, 0, 0.63) 85.94%,
+    rgba(0, 0, 0, 0.45) 100%
+  );
+  position: absolute;
+  top: 0;
+}
+
+@media screen and (min-width: 1024px) {
+  .container__img {
+    height: 750px;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .container__img {
+    height: 900px;
+  }
+}

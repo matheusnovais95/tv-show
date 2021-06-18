@@ -1,0 +1,43 @@
+.tabs__seasons {
+  width: 250px;
+  height: auto;
+  background-color: transparent;
+  overflow-y: auto;
+  padding: 20px;
+  margin: auto;
+  z-index: 5;
+  position: relative;
+}
+
+.tabs__btns {
+  width: 100%;
+  height: 50px;
+  border-bottom: 1px solid var(--light-gray);
+}
+
+.tab__btn {
+  width: auto;
+  height: 100%;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+  color: var(--white);
+  font-weight: bold;
+  outline: transparent;
+}
+
+.tab__active {
+  border-bottom: 2px solid var(--light-green);
+}
+
+@media screen and (min-width: 425px) {
+  .tabs__seasons {
+    width: 300px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .tabs__seasons {
+    width: 400px;
+  }
+}

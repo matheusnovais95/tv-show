@@ -1,0 +1,27 @@
+.cast {
+  width: 90%;
+  height: 200px;
+  margin: auto;
+  font-size: 14px;
+  text-align: justify;  
+}
+
+.cast__list {
+    width: 100%;
+    height: 100%;
+    overflow-x: auto;
+    display: flex;
+  align-items: center;
+}
+
+.cast__item {
+  width: 150px;
+  height: 75px;
+  background-color: var(--gray);
+  border-radius: 3px;
+  margin: 0 5px;
+  color: var(--white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
