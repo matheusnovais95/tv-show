@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tv-show-page/static/css/main.5ac00fba.chunk.css",
+    "main.js": "/tv-show-page/static/js/main.3ad62203.chunk.js",
+    "main.js.map": "/tv-show-page/static/js/main.3ad62203.chunk.js.map",
+    "runtime-main.js": "/tv-show-page/static/js/runtime-main.094a934b.js",
+    "runtime-main.js.map": "/tv-show-page/static/js/runtime-main.094a934b.js.map",
+    "static/js/2.4de8241f.chunk.js": "/tv-show-page/static/js/2.4de8241f.chunk.js",
+    "static/js/2.4de8241f.chunk.js.map": "/tv-show-page/static/js/2.4de8241f.chunk.js.map",
+    "index.html": "/tv-show-page/index.html",
+    "static/css/main.5ac00fba.chunk.css.map": "/tv-show-page/static/css/main.5ac00fba.chunk.css.map",
+    "static/js/2.4de8241f.chunk.js.LICENSE.txt": "/tv-show-page/static/js/2.4de8241f.chunk.js.LICENSE.txt",
+    "static/media/add-gray-s.6edcfa0e.svg": "/tv-show-page/static/media/add-gray-s.6edcfa0e.svg",
+    "static/media/close-search-w.68b0bd52.svg": "/tv-show-page/static/media/close-search-w.68b0bd52.svg",
+    "static/media/play-small-player-w.aba38ffc.svg": "/tv-show-page/static/media/play-small-player-w.aba38ffc.svg",
+    "static/media/rec-gray-s.07096c22.svg": "/tv-show-page/static/media/rec-gray-s.07096c22.svg",
+    "static/media/sad-gray-w.74d55914.svg": "/tv-show-page/static/media/sad-gray-w.74d55914.svg",
+    "static/media/share-gray-s.5a69a61c.svg": "/tv-show-page/static/media/share-gray-s.5a69a61c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.094a934b.js",
+    "static/js/2.4de8241f.chunk.js",
+    "static/css/main.5ac00fba.chunk.css",
+    "static/js/main.3ad62203.chunk.js"
+  ]
+}
